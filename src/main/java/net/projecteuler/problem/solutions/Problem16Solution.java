@@ -24,6 +24,7 @@ public class Problem16Solution {
 	 * (bigger than 64 bit values). {@link BigInteger} class can handle very
 	 * large integers and the size of the integer is only limited by the
 	 * available memory of the JVM.
+	 * 
 	 * <p>
 	 * Since the value of base and exponent is known in this problem, we can
 	 * directly use {@code BigInteger.ONE.shiftLeft(1000)} to calculate the
