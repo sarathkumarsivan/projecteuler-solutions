@@ -3,10 +3,9 @@ package net.projecteuler.problem.solutions;
 import java.util.Comparator;
 
 /**
- * The {@code PrimeComparator} is an implementation of
- * {@code Comparator} interface to order the objects of Prime. Using
- * {@code PrimeComparator}, we can sort the elements based on log data
- * member value (the natural logarithm).
+ * The {@code PrimeComparator} is an implementation of {@code Comparator}
+ * interface to order the objects of Prime. Using {@code PrimeComparator}, we
+ * can sort the elements based on log data member value (the natural logarithm).
  * 
  * @author Sarath Kumar Sivan
  * @see Comparable
