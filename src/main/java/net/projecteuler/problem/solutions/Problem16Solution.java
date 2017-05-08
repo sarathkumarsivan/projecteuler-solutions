@@ -32,7 +32,6 @@ public class Problem16Solution {
 	 * used here in this method so that we can reuse the
 	 * {@code getPowerDigitSumOf} method by passing base and exponent for
 	 * finding the power digit sum of other numbers too.
-	 * <p>
 	 * 
 	 * @param base
 	 *            the base number for repeated multiplication of the same
